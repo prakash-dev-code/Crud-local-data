@@ -9,7 +9,7 @@ export default function Home() {
       className={`flex  flex-col items-center justify-center p-2 ${inter.className}`}>
       <div className="flex flex-col justify-center w-full px-6">
         <h2 className="font-bold w-full text-center text-2xl underline underline-offset-4">
-          CRUD Operation
+          CRUD Operation with static Data
         </h2>
         <CrudLocal />
       </div>
